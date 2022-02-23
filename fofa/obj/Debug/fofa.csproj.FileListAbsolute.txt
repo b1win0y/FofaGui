@@ -1,0 +1,6 @@
+F:\pentest\Lan\C\fofa\fofa\obj\Debug\fofa.csproj.AssemblyReference.cache
+F:\pentest\Lan\C\fofa\fofa\obj\Debug\fofa.Form1.resources
+F:\pentest\Lan\C\fofa\fofa\obj\Debug\fofa.PopForm.resources
+F:\pentest\Lan\C\fofa\fofa\obj\Debug\fofa.Properties.Resources.resources
+F:\pentest\Lan\C\fofa\fofa\obj\Debug\fofa.csproj.GenerateResource.cache
+F:\pentest\Lan\C\fofa\fofa\obj\Debug\fofa.csproj.CoreCompileInputs.cache
